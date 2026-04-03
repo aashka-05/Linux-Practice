@@ -1,1 +1,1 @@
-# Linux-Practice
+Practicing linux scripting.
